@@ -1,1 +1,1 @@
-echo "HELLO"
+echo "Hello from Cloud Build Test"
